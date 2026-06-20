@@ -55,7 +55,7 @@ agent-browser install          # Downloads Chromium
 
 **Option 1: Clone as standalone tool**
 ```bash
-git clone https://github.com/dx1302001/agent-browser-enhanced.git
+git clone https://github.com/dx1302001/claude-agent-bowser.git
 cd agent-browser-enhanced
 python agent_browser_helper.py --help
 ```
